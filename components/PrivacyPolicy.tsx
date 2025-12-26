@@ -173,7 +173,9 @@ export default function PrivacyPolicy() {
           </p>
           <p className="mb-4">メールアドレス：aurorasaucesoftware@gmail.com</p>
 
-          <p className="mt-8 text-sm text-gray-600">最終更新日：2024年</p>
+          <p className="mt-8 text-sm text-gray-600">
+            最終更新日：2025年12月26日
+          </p>
         </div>
       </div>
 
@@ -388,7 +390,9 @@ export default function PrivacyPolicy() {
           </p>
           <p className="mb-4">Email: contact@aurorasauce.dev</p>
 
-          <p className="mt-8 text-sm text-gray-600">Last updated: 2024</p>
+          <p className="mt-8 text-sm text-gray-600">
+            Last updated: December 26, 2025
+          </p>
         </div>
       </div>
 
@@ -523,7 +527,9 @@ export default function PrivacyPolicy() {
               <strong>詳細情報：</strong>
               プライバシーポリシーの詳細については、公式ウェブサイト（https://aurorasauce.dev）をご確認ください。
             </p>
-            <p className="text-xs text-gray-500 mt-4">最終更新日：2024年</p>
+            <p className="text-xs text-gray-500 mt-4">
+              最終更新日：2025年12月26日
+            </p>
           </div>
         </div>
       </div>
